@@ -7,8 +7,8 @@ const Lead = () => (
     <div className="container content">
       <div className="row">
         <div className="col-lg-6">
-          <h1>Escrow<br/>for ICO</h1>
-          <h2>Incremint solves the ICO credibility<br/> problem with a decentralized escrow system.</h2>
+          <h1>Elevator<br/>Pitch Line</h1>
+          <h2>[SITE_NAME] does X<br/> while helping with Y.</h2>
           <button type="button" className="btn btn-info"><i className="fa fa-download" aria-hidden="true"></i> White Paper</button>
         </div>
         <div className="col-lg-6 countdown">
@@ -16,8 +16,8 @@ const Lead = () => (
           <h3>Token Sale Ends in:</h3>
           <div className="timer-head-wrapper"><ul className="timer-list"><li className="timer-list__item"><div className="timer-list__item-value timer-days">29</div><div className="timer-list__item-name">days</div></li><li className="timer-list__item"><div className="timer-list__item-value timer-hours">10</div><div className="timer-list__item-name">hours</div></li><li className="timer-list__item"><div className="timer-list__item-value timer-min">17</div><div className="timer-list__item-name">min</div></li><li className="timer-list__item"><div className="timer-list__item-value timer-sec">16</div><div className="timer-list__item-name">sec</div></li></ul></div>
           <div>
-            <button className="btn btn-success my-2 my-sm-0" type="submit">Buy Mints</button>
-            <p><span className="btn-tip">2000 Mints / 1 ETH</span></p>
+            <button className="btn btn-success my-2 my-sm-0" type="submit">Buy Tokens</button>
+            <p><span className="btn-tip">2000 Tokens / 1 ETH</span></p>
           </div>
         </div>
       </div>

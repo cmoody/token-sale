@@ -1,7 +1,7 @@
-#daico {
+#comparison {
   background-color: #f5f7fa;
   padding: 60px 0; }
-  #daico .tbl {
+  #comparison .tbl {
     background-color: #fff;
     border-radius: 5px;
     display: flex;
@@ -9,18 +9,18 @@
     padding: 0 0 30px;
     justify-content: space-around;
     box-shadow: 0 14px 24px 0 rgba(50, 49, 58, 0.25); }
-    #daico .tbl ul {
+    #comparison .tbl ul {
       padding: 0;
       list-style: none; }
-      #daico .tbl ul li {
+      #comparison .tbl ul li {
         margin-bottom: 10px; }
-        #daico .tbl ul li .fa {
+        #comparison .tbl ul li .fa {
           color: #53C16A; }
-    #daico .tbl ul.check-list li {
+    #comparison .tbl ul.check-list li {
       text-align: center; }
-    #daico .tbl .features {
+    #comparison .tbl .features {
       width: 60%; }
-    #daico .tbl .incremint {
+    #comparison .tbl .product {
       text-align: center;
       box-shadow: 0 14px 24px 0 rgba(50, 49, 58, 0.25);
       padding: 15px 22px 22px;
@@ -31,7 +31,7 @@
       background-color: #fff;
       margin: -15px 140px;
       width: 16%; }
-      #daico .tbl .incremint .btn-success {
+      #comparison .tbl .product .btn-success {
         transition: .3s ease-out;
         background: #53C16A;
         box-shadow: 0 14px 24px 0 rgba(50, 49, 58, 0.25);
@@ -41,5 +41,5 @@
         line-height: 22px;
         font-weight: 700;
         padding: 9px 15px; }
-        #daico .tbl .incremint .btn-success:hover {
+        #comparison .tbl .product .btn-success:hover {
           background: #47AA5B; }
